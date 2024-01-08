@@ -1,13 +1,13 @@
-# OOP-Mastery-in-CPP with Afaq
+#OOP Mastery in CPP with Afaq
 
-Welcome to the " Zero to Hero" repositery! In this comprehensive guide, you will learn JavaScript from the very basics to becoming a master of the language. This project utilizes the "ezsnippet" teaching method to make your learning experience interactive and engaging.
+Welcome to the "OOP Mastery in CPP" repositery! In this comprehensive guide, you will learn C ++ from the very basics to becoming a master. This project utilizes the "Escode" teaching method to make your learning experience interactive and engaging.
 
 
 
 ## Introduction
 
-JavaScript Zero to Hero with Neeraj Walia
-Hello, I'm Neeraj Walia, your JavaScript mentor. This repo is your gateway from zero to JavaScript hero. No prior experience required! We'll explore JavaScript together, making it simple and fun. Are you ready to embark on this journey with me and master JavaScript from the ground up?
+#OOP Mastery in CPP with Afaq
+Hello, I'm Afaq Ali , This repo is your gateway from zero to OOP hero. No prior experience required! We'll explore OOP together, making it simple and fun. Are you ready to embark on this journey with me and master OOP from the ground up?
 
 
 ## Day 1: Setting up environment
@@ -15,7 +15,7 @@ Hello, I'm Neeraj Walia, your JavaScript mentor. This repo is your gateway from 
 Check out the video [here](https://www.instagram.com/p/Cw-7CV7y96N/)
 
 
-## Day 2: Intro to JS 
+## Day 2: Intro to OOP 
 
 Check out the video [here](https://www.instagram.com/p/Cw_Cj1Qhp4m/)
 
