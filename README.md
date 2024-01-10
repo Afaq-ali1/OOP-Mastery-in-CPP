@@ -1,13 +1,13 @@
 #OOP Mastery in CPP with Afaq
 
-Welcome to the "OOP Mastery in CPP" repositery! In this comprehensive guide, you will learn C ++ from the very basics to becoming a master. This project utilizes the "Escode" teaching method to make your learning experience interactive and engaging.
+Welcome to the "OOP Mastery in CPP" repository! In this comprehensive guide, you will learn C ++ from the very basics to becoming a master. This project utilizes the "Escode" teaching method to make your learning experience interactive and engaging.
 
 
 
 ## Introduction
 
 #OOP Mastery in CPP with Afaq
-Hello, I'm Afaq Ali , This repo is your gateway from zero to OOP hero. No prior experience required! We'll explore OOP together, making it simple and fun. Are you ready to embark on this journey with me and master OOP from the ground up?
+Hello, I'm Afaq Ali , This repository is your gateway from zero to OOP hero. No prior experience required! We'll explore OOP together, making it simple and fun. Are you ready to embark on this journey with me and master OOP from the ground up?
 
 
 ## Day 1: Setting up environment
