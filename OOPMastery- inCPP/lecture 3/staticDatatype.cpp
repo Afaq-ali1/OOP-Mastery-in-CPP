@@ -3,7 +3,6 @@ using namespace std;
 class Friends // class
 {
 	public:  
-	// constructor must be public ,with no return type & same name as class 
 		static int money;	//the static data member can be shared within the objects of a class
 };
 int Friends::money=100;
