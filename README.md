@@ -12,45 +12,45 @@ Hello, I'm Afaq Ali , This repository is your gateway from zero to OOP hero. No 
 
 ## Day 1: Setting up environment
 
-Check out the video [here]()
+Check out [here]()
 
 
 ## Day 2: Intro to OOP 
 
-Check out the video [here]()
+Check out [here]()
 
 
 ## Day 3: Member & function of a class CPP 
 
-Check out the video [here]()
+Check out [here]()
 
 
 ## Day 4: Useful VS Code extension
 
-Check out the video [here]()
+Check out [here]()
 
 
 ## Day 5: Destructor
 
-Check out the video [here]()
+Check out [here]()
 
 
 ## Day 6: Variables in CPP
 
-Check out the video [here]()
+Check out [here]()
 
 
 ## Day 7: Datatypes in CPP
 
-Check out the video [here]()
+Check out [here]()
 
 
 ## Day 8: static, Const
 
-Check out the video [here]()
+Check out [here]()
 
 
 ## Day 9: Arithmetic Operator in CPP
 
-Check out the video [here]()
+Check out [here]()
  
