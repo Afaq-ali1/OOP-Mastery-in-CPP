@@ -1,3 +1,26 @@
+# OOP Mastery in CPP
+
+Welcome to the "OOP Mastery in CPP" repository! In this comprehensive guide, you will learn C++ from the very basics to becoming a master. This project utilizes the "easy and simple" teaching method to make your learning experience interactive and engaging.
+
+## Introduction
+
+### OOP Mastery in CPP with me
+
+Hello, I'm Afaq Ali. This repository is your gateway from zero to OOP hero. No prior experience required! We'll explore OOP together, making it simple and fun. Are you ready to embark on this journey with me and master OOP from the ground up?
+
+## Table of Contents
+
+- [Day 1: Setting up environment](./Day1_Environment_Setup.md)
+- [Day 1: Intro to OOP](./Day1_Intro_to_OOP.md)
+- [Day 2: More](./Day2_More.md)
+- [Day 3: Member & function of a class CPP](./Day3_Class_Members_Functions.md)
+- [Day 4: Function Overloading](./Day4_Function_Overloading.md)
+- [Day 5: Destructor](./Day5_Destructor.md)
+- [Day 6: Overloading and Overriding](./Day6_Overloading_Overriding.md)
+- [Day 7: Default Constructor](./Day7_Default_Constructor.md)
+- [Day 8: Pure Virtual Function](./Day8_Pure_Virtual_Function.md)
+- [Day 9: Copy Constructor](./Day9_Copy_Constructor.md)
+- 
 ## OOP Mastery in CPP with me
 
 Welcome to the "OOP Mastery in CPP" repository! In this comprehensive guide, you will learn C ++ from the very basics to becoming a master. This project utilizes the "easy and simple" teaching method to make your learning experience interactive and engaging.
