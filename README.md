@@ -64,8 +64,8 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 
 ## Day 4: Useful VS Code extension
 
-Check out [here]()
-![image](https://github.com/Afaq-ali1/OOP-Mastery-in-CPP/assets/133626948/ce5788f1-5244-46f4-807c-e7e8110098ca)
+Check out [here](
+![image](https://github.com/Afaq-ali1/OOP-Mastery-in-CPP/assets/133626948/ce5788f1-5244-46f4-807c-e7e8110098ca))
 
 
 ## Day 5: Destructor
