@@ -12,6 +12,8 @@ Hello, I'm Afaq Ali , This repository is your gateway from zero to OOP hero. No 
 
 ## Day 1: Setting up environment
 
+## Day 1: Intro to OOP
+
 Check out [here]()
 Top 50 OOPs Interview Questions & Answers
 1) What is OOPS?
@@ -35,7 +37,7 @@ Polymorphism is nothing but assigning behavior or value in a subclass to somethi
 7) What is Inheritance?
 Inheritance is a concept where one class shares the structure and behavior defined in another class. If Inheritance applied to one class is called Single Inheritance, and if it depends on multiple classes, then i, is called multiple Inheritance.
 
-## Day 2: Intro to OOP 
+## Day 2: more 
 
 Check out [here]()
 
@@ -62,11 +64,11 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 个
 
 
-## Day 4: Useful VS Code extension
+## Day 4: function overloading
 14) What is function overloading?
 Function overloading is a regular function, but it is assigned with multiple parameters. It allows the creation of several methods with the same name which differ from each other by the type of input and output of the function.
 Example
-void add(int a, int b)1
+void add(int a, int b);
 void add (doubles a, doubles b);
 void add(struct bobs a, struct bobs b)/
 15) What is operator overloading?
@@ -102,7 +104,7 @@ An exception is an event that occurs during the execution of a program. Exceptio
 >A compiler recognizes a token, and it cannot be broken down into component elements Keywords, identifiers, constants, string literals, and operators are examples of tokens.
 Even punctuation characters are also considered as tokens. Example: Brackets, Commas, Braces, and Parentheses
 
-## Day 6: Variables in CPP
+## Day 6: overloading and overriding
 
 Check out [here]()
 25) What is the main difference between overloading and overriding?
@@ -124,7 +126,7 @@ Access modifiers determine the scope of the method or variables that can be acce
 • Protected Friend
 
 
-## Day 7: Datatypes in CPP
+## Day 7:Default Constructor
 
 Check out [here]()
 29) What are sealed modifiers?
@@ -146,7 +148,7 @@ THIS pointer refers to the current object of a class. THIS keyword is used as a 
 >
 
 
-## Day 8: static, Const
+## Day 8: pure virtual function
 
 Check out [here]()
 35) What is the difference between structure and a class?
@@ -168,7 +170,7 @@ Following are the operators that cannot be overloaded -
 Dynamic or Run time polymorphism is also known as method overriding in which call to an overridden function is resolved during run time, not at the compile time. It means having two or more methods with the same name, same signature but with different implementation.
 
 
-## Day 9: Arithmetic Operator in CPP
+## Day 9: copy constructor
 
 Check out [here]()
  
