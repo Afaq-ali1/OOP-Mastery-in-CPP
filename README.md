@@ -12,7 +12,7 @@ Hello, I'm Afaq Ali. This repository is your gateway from zero to OOP hero. No p
 -Day 1:(leacture-1.md)
 - [Day 1: Setting up environment](./Day1_Environment_Setup.md)
 - [Day 1: Intro to OOP](./Day1_Intro_to_OOP.md)
-- [Day 2: More](./Day2_More.md)
+- [Day 2: More](leacture-1.md)
 - [Day 3: Member & function of a class CPP](./Day3_Class_Members_Functions.md)
 - [Day 4: Function Overloading](./Day4_Function_Overloading.md)
 - [Day 5: Destructor](./Day5_Destructor.md)
