@@ -8,8 +8,9 @@ Welcome to the "OOP Mastery in CPP" repository! In this comprehensive guide, you
 
 Hello, I'm Afaq Ali. This repository is your gateway from zero to OOP hero. No prior experience required! We'll explore OOP together, making it simple and fun. Are you ready to embark on this journey with me and master OOP from the ground up?
 
-## Table of Contents
--[Day 1:](./OPMastery- inCPP/lecture 1)
+## Table of Contents- 
+[Day 1:](./OPMastery-inCPP/lecture1.md)
+
 - [Day 1: Setting up environment](./Day1_Environment_Setup.md)
 - [Day 1: Intro to OOP](./Day1_Intro_to_OOP.md)
 - [Day 2: More](./leacture-1.md)
